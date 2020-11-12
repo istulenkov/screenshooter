@@ -4,3 +4,7 @@ myssd.log
 _STOP.txt
 STOP.txt
 build*
+README.txt
+START.vbs
+STOP.vbs
+myssd.ini
