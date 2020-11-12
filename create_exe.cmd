@@ -1,0 +1,1 @@
+pyinstaller --onefile myssd.py 
